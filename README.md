@@ -2,7 +2,7 @@ Tee metodi `monista`, joka saa parametrina kokonaislukutaulukon ja palauttaa mer
 
 Esim. kutsuttaessa `monista([1,5,2])` palauttaa metodi taulukon `["1","55555", "22"]`
 
->Käytä metodia `map`.
+Käytä metodia `map`.
 
 --
 
